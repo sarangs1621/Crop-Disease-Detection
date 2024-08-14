@@ -2,10 +2,6 @@
 
 # 🌱 Crop Disease Detection using Deep Learning
 
-**Author:** Sarang S. Nair  
-**Email:** [sarangsnair1621@gmail.com](mailto:sarangsnair1621@gmail.com)  
-**Username:** sarangs1621
-
 ## 📜 Abstract
 
 The agricultural sector is crucial for global food security, but plant diseases threaten crop yields and biodiversity. This project leverages deep learning to provide a solution for the timely and accurate detection of crop diseases. By utilizing the **ResNet29** model on the extensive **Plant Village** dataset, we aim to enhance disease diagnosis accuracy, ensuring agricultural sustainability. Our approach involves rigorous experimentation, data preprocessing, model training, and evaluation, showcasing the effectiveness of deep learning in identifying 38 distinct crop disease classes.
